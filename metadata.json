@@ -1,0 +1,6 @@
+{
+  "name": "Charlie's GoodTime - Specialty Coffee Roasters",
+  "description": "B-Corp 인증을 받은 100% 태양열 스페셜티 커피 로스터 Charlie's GoodTime 공식 웹사이트 및 멤버십 로그인 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
